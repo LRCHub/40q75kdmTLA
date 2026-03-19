@@ -1,0 +1,62 @@
+# LANY – dancing in the kitchen (official video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.26] City lights looking like ice underneath the stars
+[00:10.53] Beautiful, but I'd rather be right here where we are
+[00:14.81] Go and tell your friends, we're running late again
+[00:20.56] What you think? Pour another drink and call off the car
+[00:48.06] 
+[00:25.82] I could spend a thousand nights right here inside this room
+[00:55.32] 
+[00:36.98] Swear the only one I want is you
+[00:39.51] And it doesn't matter what we do
+[00:41.97] We could have nothing at all
+[00:44.28] And it'd still feel like nothing's missing
+[00:47.10] Now we're moving like we're on the moon
+[00:49.67] Dom Pérignon drip on our shoes
+[00:52.20] We could fly around the world
+[00:53.64] But we always end up
+[01:03.64] 
+[00:55.12] Dancing in the kitchen
+[01:00.21] Dancing in the kitchen
+[01:11.21] 
+[01:06.58] I don't mind if this whole town goes up in flames
+[01:11.51] As long as I got you with me, I'ma be okay
+[01:16.06] Slide across the floor, I'm forever yours, yeah
+[01:21.96] What you think? Pour another drink, put it on repeat
+[01:47.96] 
+[01:27.15] I could spend a thousand nights right here inside this room
+[01:56.65] 
+[01:38.26] Swear the only one I want is you
+[01:40.88] And it doesn't matter what we do
+[01:43.22] We could have nothing at all
+[01:45.32] And it'd still feel like nothing's missing
+[01:48.44] Now we're moving like we're on the moon
+[01:51.09] Dom Pérignon drip on our shoes
+[01:53.44] We could fly around the world
+[01:54.91] But we always end up
+[02:04.91] 
+[01:56.43] Dancing in the kitchen
+[02:01.54] Dancing in the kitchen (dancing in the kitchen)
+[02:06.69] Dancing in the kitchen (dancing in the kitchen)
+[02:11.77] Dancing in the kitchen (dancing in the kitchen)
+[02:35.27] 
+[02:18.15] I could spend a thousand nights right here inside this room
+[02:28.30] Tell me, baby, if you feel the same way that I do
+[02:52.80] 
+[02:41.83] Swear the only one I want is you
+[02:44.67] And it doesn't matter what we do
+[02:47.27] We could have nothing at all
+[02:49.25] And it'd still feel like nothing's missing
+[02:52.33] Now we're moving like we're on the moon
+[02:54.85] Dom Pérignon drip on our shoes
+[02:57.55] We could fly around the world
+[02:58.71] But we always end up
+[03:08.71] 
+[03:00.16] Dancing in the kitchen
+[03:05.37] Dancing in the kitchen (dancing in the kitchen)
+[03:10.31] Dancing in the kitchen (dancing in the kitchen)
+[03:15.58] Dancing in the kitchen (dancing in the kitchen)
+```
