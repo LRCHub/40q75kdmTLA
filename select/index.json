@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "dancing in the kitchen (official video)",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-19T11:08:22.907468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "dancing in the kitchen",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/01_dancing_in_the_kitchen_LANY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "dancing in the kitchen",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/02_dancing_in_the_kitchen_LANY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "slow dancing in the kitchen",
+      "artist": "Yaya Bey",
+      "has_synced": false,
+      "path": "select/03_slow_dancing_in_the_kitchen_Yaya_Bey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "slow dancing in the kitchen",
+      "artist": "Bey, Yaya",
+      "has_synced": false,
+      "path": "select/04_slow_dancing_in_the_kitchen_Bey,_Yaya.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dancing In The Kitchen",
+      "artist": "Lany",
+      "has_synced": true,
+      "path": "select/05_Dancing_In_The_Kitchen_Lany.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "dancing in the kitchen (official video)",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/06_dancing_in_the_kitchen_(official_video)_LANY.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "dancing in the kitchen (Original Mix)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/07_dancing_in_the_kitchen_(Original_Mix)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "dancing in the kitchen",
+      "artist": "Zachary Knowles",
+      "has_synced": true,
+      "path": "select/08_dancing_in_the_kitchen_Zachary_Knowles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LANY - dancing in the kitchen (official video)",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/09_LANY_-_dancing_in_the_kitchen_(official_video)_LANY.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "dancing in the kitchen - live from The Forum",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/10_dancing_in_the_kitchen_-_live_from_The_Forum_LANY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dancing in the kitchen",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_dancing_in_the_kitchen_LANY.txt"
+    }
+  ]
+}
